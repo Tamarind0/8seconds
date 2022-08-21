@@ -1,0 +1,13 @@
+Armyworm,Armadillo,Alpaca,Anaconda,Antelope,Axolotl,Anteater,Alligator,Ape,Ant
+Blue Tit,Beaver,Bobcat,Beetle,Butterfly,Bulldog,Buffalo,Bear,Bee,Bat
+Codfish,Chimpanzee,Chipmunk,Cheetah,Camel,Crocodile,Crab,Cow,Chicken,Cat
+Dalmatian,Dodo,Dingo,Dhole,Dragonfly,Dolphin,Deer,Donkey,Duck,Dog
+Eskipoo,Echidna,Escolar,Earwig,Earthworm,Eel,Elk,Emu,Elephant,Eagle
+Frogfish,Frengle,Ferret,Flea,Flamingo,Firefly,Fox,Fly,Frog,Fish
+Gnat,Guinea Pig,Grasshopper,Goldfish,Goat,Gazelle,Gecko,Goose,Gorilla,Giraffe
+Heron,Honey Badger,Hermit Crab,Hedgehog,Human,Hummingbird,Hippopotamus,Hare,Hyena,Hamster
+Icelandic Sheepdog,Ibizan Hound,Ichthyosaurus,Indri,Ibex,Ibis,Iguanodon,Impala,Insect,Iguana
+Japanese Chin,Jumping Spider,Javanese,Jackdaw,Junglefowl,Jerboa,Jacana,Jackal,Jaguar,Jellyfish
+Kangal,Kuvasz,Kodkod,Krait,Kingfisher,Koi Fish,Kiwi,Krill,Koala,Kangaroo
+Liger,Lionfish,Lemur,Lynx,Llama,Ladybug,Lobster,Lizard,Leopard,Lion
+Meagle,Microraptor,Muskrat,Megalodon,Maggot,Mole,Moose,Moth,Mule,Mouse
